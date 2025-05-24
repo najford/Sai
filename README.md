@@ -6,7 +6,7 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/najford/boss_ian.git
+git clone https://github.com/najford/ian.git
 
 cd boss_ian
 
