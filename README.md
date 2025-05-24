@@ -8,7 +8,7 @@ pkg install python-pip
 
 git clone https://github.com/najford/ian.git
 
-cd boss_ian
+cd ian
 
 git pull
 
